@@ -6,6 +6,7 @@ const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 const playwrightCli = path.join(projectRoot, 'node_modules', '@playwright', 'test', 'cli.js');
 const allureCli = path.join(projectRoot, 'node_modules', 'allure', 'cli.js');
 const testArguments = process.argv.slice(2);
+const isCi = Boolean(process.env.CI || process.env.TF_BUILD);
 
 function run(command, args) {
   return new Promise((resolve, reject) => {
@@ -48,7 +49,7 @@ try {
   reportExitCode = 1;
 }
 
-if (reportExitCode === 0) {
+if (reportExitCode === 0 && !isCi) {
   try {
     await openReport();
     console.log('Opened the Allure report in your browser.');
