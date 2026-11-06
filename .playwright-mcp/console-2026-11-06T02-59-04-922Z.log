@@ -1,0 +1,18 @@
+[    1125ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/45-book.woff2:0
+[    1125ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/65-medium.woff2:0
+[    1126ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/55-roman.woff2:0
+[    1637ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Ji (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:31194)
+    at Zi (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:32525)
+    at Uc (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:85558)
+    at Iu (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:116217)
+    at Nu (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:115490)
+    at Au (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:114512)
+    at ku (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:114351)
+    at _u (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:110882)
+    at ld (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:10:122709)
+    at MessagePort.ae (https://bookface-static.ycombinator.com/vite/assets/client-CaHwx7_o.js:3:1675)
+[    1636ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/65-medium.woff:0
+[    1637ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/55-roman.woff:0
+[    1638ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bookface-static.ycombinator.com/vite/assets/45-book.woff:0
+[    1731ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://bookface-static.ycombinator.com/vite/assets/sdk-CW2aBEjf.js:13

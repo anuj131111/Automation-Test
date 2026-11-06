@@ -1,0 +1,259 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e4]:
+    - link "Skip to Content" [ref=f2e5] [cursor=pointer]:
+      - /url: "#chakra-skip-nav"
+    - generic [ref=f2e6]:
+      - generic [ref=f2e9]:
+        - generic [ref=f2e12]:
+          - button "Scroll carousel left" [ref=f2e13] [cursor=pointer]
+          - strong [ref=f2e23]:
+            - link "Ink Subscription Ready Printers" [ref=f2e25] [cursor=pointer]:
+              - /url: /ink-toner/learn-more/anything-genuine
+              - text: Never Run Out Of Ink - Shop Ink Subscription Ready Printers
+          - button "Scroll carousel right" [ref=f2e26] [cursor=pointer]
+        - button "Close banner" [ref=f2e30] [cursor=pointer]
+      - generic [ref=f2e35]:
+        - button [ref=f2e37] [cursor=pointer]:
+          - img "Brother at your side. Back to homepage." [ref=f2e38]
+        - img [ref=f2e53] [cursor=pointer]
+        - 'button "My cart, number of items: 0" [ref=f2e55] [cursor=pointer]'
+        - button "Menu" [ref=f2e59] [cursor=pointer]
+    - main [ref=f2e62]:
+      - generic [ref=f2e63]:
+        - generic [ref=f2e68]:
+          - generic [ref=f2e71]:
+            - list [ref=f2e72]:
+              - listitem [ref=f2e73]:
+                - img "Brother MFC-J4355DW all-in-one wireless inkjet printer with color touchscreen printing document" [ref=f2e75]
+              - listitem [ref=f2e76]:
+                - img "Brother MFC-J4355DW all-in-one wireless color inkjet printer with mobile connectivity" [ref=f2e78]
+              - listitem [ref=f2e79]:
+                - img "Brother MFC-J4355DW all-in-one inkjet printer with wireless connectivity and color display" [ref=f2e81]
+              - listitem [ref=f2e82]:
+                - img "Brother MFC-J4355DW all-in-one inkjet printer with genuine ink cartridges and printed documents" [ref=f2e84]
+              - listitem [ref=f2e85]:
+                - img "Brother MFC-J4355DW compact all-in-one wireless inkjet printer on desk with office supplies" [ref=f2e87]
+              - listitem [ref=f2e88]:
+                - img "Brother MFC-J4355DW all-in-one printer displayed on smartphone with Mobile Connect app interface" [ref=f2e90]
+              - listitem [ref=f2e91]:
+                - img "Brother MFC-J4355DW all-in-one inkjet printer with dual-band wireless connectivity" [ref=f2e93]
+              - listitem [ref=f2e94]:
+                - img "Brother MFC-J4355DW wireless color inkjet all-in-one printer with included ink cartridges and guides" [ref=f2e96]
+              - listitem [ref=f2e97]:
+                - generic [ref=f2e99]:
+                  - img "Brother MFC-J4355DW Wireless INKvestment Color Inkjet All-in-One Printer" [ref=f2e100]
+                  - img "circle-caret-icon" [ref=f2e102]
+            - img "Brother MFC-J4355DW all-in-one wireless inkjet printer with color touchscreen printing document" [ref=f2e108]
+          - generic [ref=f2e109]:
+            - generic [ref=f2e110]:
+              - generic [aria-hidden] [ref=f2e111]:
+                - generic [ref=f2e112]: mfcj4355dw
+                - generic [ref=f2e113]: mfcj4355dw
+                - generic [ref=f2e114]: inkjet-printers
+                - generic [ref=f2e115]: mfcj4355dw_us_as
+                - generic [ref=f2e116]: "10"
+                - generic [ref=f2e117]: inkjetprinters
+                - generic [ref=f2e118]: mfcj4355d506xxl4bd,mfcj4555dw,mfcj5010dw,mfct980dw,mfct780dw,mfcj1360dw
+              - generic [ref=f2e121]:
+                - generic [ref=f2e122]:
+                  - generic [ref=f2e123]: MFCJ4355DW
+                  - heading "Brother MFC-J4355DW Wireless INKvestment Color Inkjet All-in-One Printer" [level=1] [ref=f2e125]
+                - heading "current price $209.99" [level=2] [ref=f2e128]: $209.99
+                - region "Product feature" [ref=f2e129]:
+                  - generic [ref=f2e131]:
+                    - img "Checkicon" [ref=f2e132]
+                    - heading "Best for home office and small office" [level=3] [ref=f2e134]
+                  - generic [ref=f2e136]:
+                    - img "Checkicon" [ref=f2e137]
+                    - heading "1.8\" color display" [level=3] [ref=f2e139]
+                  - generic [ref=f2e141]:
+                    - img "Checkicon" [ref=f2e142]
+                    - heading "Print up to 20ppm‡" [level=3] [ref=f2e144]
+              - generic [ref=f2e147]:
+                - generic [ref=f2e148]:
+                  - generic [ref=f2e149]:
+                    - status [ref=f2e150]: Updated Quantity 1
+                    - generic [ref=f2e152]:
+                      - button "Decrement Quantity for Brother MFC-J4355DW Wireless INKvestment Color Inkjet All-in-One Printer" [disabled] [ref=f2e153]
+                      - spinbutton "Quantity" [ref=f2e156]: "1"
+                      - button "Increment Quantity for Brother MFC-J4355DW Wireless INKvestment Color Inkjet All-in-One Printer" [ref=f2e157] [cursor=pointer]
+                  - button "Add to Wishlist" [disabled] [ref=f2e160]:
+                    - generic [ref=f2e161]: Loading...
+                - button "Loading... Add to Cart" [disabled] [ref=f2e167]:
+                  - generic [ref=f2e168]: Loading...
+                  - generic [ref=f2e171]: Add to Cart
+              - generic [ref=f2e175]: Prefer to buy from another retailer?
+            - generic [ref=f2e182]:
+              - button [ref=f2e185] [cursor=pointer]:
+                - paragraph [ref=f2e186]: Learn More
+              - paragraph [ref=f2e188]: This Printer is Subscription Ready. With Refresh EZ Print Subscription, you can save up to 50% and never worry about ink & toner again. Enroll in Refresh at printer set-up and get a FREE Trial and Special Bonus!
+            - button [ref=f2e191] [cursor=pointer]:
+              - paragraph [ref=f2e193]: Flexible Checkout Options Available
+            - generic [ref=f2e195]:
+              - button [ref=f2e198] [cursor=pointer]:
+                - heading "About the Product" [level=3] [ref=f2e203]
+              - button [ref=f2e211] [cursor=pointer]:
+                - paragraph [ref=f2e216]: In the Box
+              - button [ref=f2e222] [cursor=pointer]:
+                - heading "Additional Information" [level=3] [ref=f2e227]
+              - button [ref=f2e233] [cursor=pointer]:
+                - paragraph [ref=f2e237]: Shipping & Returns
+        - generic [ref=f2e243]:
+          - link "Scroll to top" [ref=f2e244] [cursor=pointer]
+          - generic [ref=f2e246]:
+            - button "Similar Products" [ref=f2e247] [cursor=pointer]
+            - button "Main Features" [ref=f2e248] [cursor=pointer]
+            - button "Awards & Recognition" [ref=f2e249] [cursor=pointer]
+            - button "Supplies & Accessories" [ref=f2e250] [cursor=pointer]
+            - button "Specifications" [ref=f2e251] [cursor=pointer]
+            - button "Reviews" [ref=f2e252] [cursor=pointer]
+            - link "Support" [ref=f2e253] [cursor=pointer]:
+              - /url: /product-support/MFCJ4355DW
+        - generic [ref=f2e277]:
+          - heading "Main Features" [level=2] [ref=f2e279]
+          - generic [ref=f2e280]:
+            - generic [ref=f2e281]:
+              - generic [ref=f2e283]:
+                - heading "All-in-One Printer." [level=3] [ref=f2e284]
+                - paragraph [ref=f2e285]: Productivity-minded printing. This multifunction printer makes it easy to print, copy, scan, and fax —all in one compact device. Includes one 1,800-page yield black cartridge and one 750-page yield cartridge for each color in cyan, yellow, and magenta‡.
+              - generic [ref=f2e287]:
+                - heading "Innovative Technology." [level=3] [ref=f2e288]
+                - paragraph [ref=f2e289]: Enhance your workflow with Wi-Fi Direct®, which allows you to print wirelessly even without an external network connection.
+              - generic [ref=f2e291]:
+                - heading "Cloud App Connections." [level=3] [ref=f2e292]
+                - paragraph [ref=f2e293]: Print from and scan to popular Cloud apps‡, including Google Drive™, Dropbox, Box, OneDrive, and more with an impressive 1.8” color display that enhances clarity and ensures effortless operation.
+              - generic [ref=f2e295]:
+                - heading "Productivity-Focused Printing Features." [level=3] [ref=f2e296]
+                - paragraph [ref=f2e297]: A 150-sheet paper tray‡, 20-page single-sided automatic document feeder (ADF)‡, and automatic duplex (2-sided) printing, plus a 1-sheet manual feed slot‡ provide advanced media-handling capabilities.
+              - generic [ref=f2e299]:
+                - heading "Wireless and USB Connectivity." [level=3] [ref=f2e300]
+                - paragraph [ref=f2e301]: Connect your way. Interface with your printer on your wireless network or via USB.
+              - generic [ref=f2e303]:
+                - heading "The Brother Mobile Connect app." [level=3] [ref=f2e304]
+                - paragraph [ref=f2e305]: Put the power of printing at your fingertips. Go mobile with the simple-to-use Brother Mobile Connect app‡ that delivers easy onscreen menu navigation for printing, copying, scanning, and device management from your mobile device.
+            - button "Show More" [ref=f2e307] [cursor=pointer]
+        - generic [ref=f2e311]:
+          - generic [ref=f2e312]:
+            - heading "Awards & Recognition" [level=4] [ref=f2e313]
+            - paragraph [ref=f2e314]: Detailed technical specs to help you understand performance, compatibility, and requirements.
+          - generic [ref=f2e315]:
+            - img "Energy Star certification logo with blue background and white star" [ref=f2e317]
+            - img "EPEAT Silver certification logo with checkmark symbol" [ref=f2e319]
+            - img "Works with Chromebook certification badge with Chrome logo" [ref=f2e321]
+        - generic [ref=f2e345]:
+          - generic [ref=f2e346]:
+            - heading "Specifications" [level=2] [ref=f2e347]
+            - paragraph [ref=f2e348]: Detailed technical specs to help you understand performance, compatibility, and requirements.
+          - generic [ref=f2e350]:
+            - heading "Expand ,Connectivity, section" [level=3] [ref=f2e352] [cursor=pointer]:
+              - paragraph [ref=f2e353]: Connectivity
+            - heading "Expand ,Dimensions, section" [level=3] [ref=f2e358] [cursor=pointer]:
+              - paragraph [ref=f2e359]: Dimensions
+            - heading "Expand ,General, section" [level=3] [ref=f2e364] [cursor=pointer]:
+              - paragraph [ref=f2e365]: General
+            - heading "Expand ,Paper Handling, section" [level=3] [ref=f2e370] [cursor=pointer]:
+              - paragraph [ref=f2e371]: Paper Handling
+            - heading "Expand ,Power, section" [level=3] [ref=f2e376] [cursor=pointer]:
+              - paragraph [ref=f2e377]: Power
+            - heading "Expand ,Print, section" [level=3] [ref=f2e382] [cursor=pointer]:
+              - paragraph [ref=f2e383]: Print
+            - heading "Expand ,Scan, section" [level=3] [ref=f2e388] [cursor=pointer]:
+              - paragraph [ref=f2e389]: Scan
+            - heading "Expand ,Copy, section" [level=3] [ref=f2e394] [cursor=pointer]:
+              - paragraph [ref=f2e395]: Copy
+            - heading "Expand ,Fax, section" [level=3] [ref=f2e400] [cursor=pointer]:
+              - paragraph [ref=f2e401]: Fax
+            - heading "Expand ,Security Features, section" [level=3] [ref=f2e406] [cursor=pointer]:
+              - paragraph [ref=f2e407]: Security Features
+            - heading "Expand ,What’s Included, section" [level=3] [ref=f2e412] [cursor=pointer]:
+              - paragraph [ref=f2e413]: What’s Included
+        - generic [ref=f2e419]:
+          - heading "Support" [level=3] [ref=f2e420]
+          - separator [ref=f2e421]
+          - generic [ref=f2e422]:
+            - group [ref=f2e423]:
+              - generic [ref=f2e424]:
+                - generic [ref=f2e425]:
+                  - paragraph [ref=f2e427]: Chat
+                  - list [ref=f2e428]:
+                    - listitem [ref=f2e429]:
+                      - paragraph [ref=f2e430]: Monday - Friday 9:00am to 9:00pm Eastern Time
+                - separator [ref=f2e431]
+                - link "Get Started" [ref=f2e433] [cursor=pointer]:
+                  - /url: "#"
+            - group [ref=f2e434]:
+              - generic [ref=f2e435]:
+                - generic [ref=f2e436]:
+                  - paragraph [ref=f2e438]: Phone
+                  - list [ref=f2e439]:
+                    - listitem [ref=f2e440]:
+                      - paragraph [ref=f2e441]: Monday - Friday 9:00am to 9:00pm Eastern Time
+                - separator [ref=f2e442]
+                - link "1-877-276-8437" [ref=f2e444] [cursor=pointer]:
+                  - /url: tel:1-877-276-8437
+            - group [ref=f2e445]:
+              - generic [ref=f2e446]:
+                - generic [ref=f2e447]:
+                  - paragraph [ref=f2e449]: Contact Form
+                  - list [ref=f2e450]:
+                    - listitem [ref=f2e451]:
+                      - paragraph [ref=f2e452]: Fill out a contact form and a member of our team will get back to you soon.
+                - separator [ref=f2e453]
+                - link "Contact Us" [ref=f2e455] [cursor=pointer]:
+                  - /url: "#"
+        - button [ref=f2e460] [cursor=pointer]:
+          - paragraph [ref=f2e463]: Disclaimers
+    - generic [ref=f2e467]:
+      - generic [ref=f2e469]:
+        - button [ref=f2e471] [cursor=pointer]:
+          - generic [ref=f2e472]:
+            - heading "Products" [level=2] [ref=f2e473]
+            - img "drop-icon" [ref=f2e474]
+        - button [ref=f2e477] [cursor=pointer]:
+          - generic [ref=f2e478]:
+            - heading "For Business" [level=2] [ref=f2e479]
+            - img "drop-icon" [ref=f2e480]
+        - button [ref=f2e483] [cursor=pointer]:
+          - generic [ref=f2e484]:
+            - heading "Support" [level=2] [ref=f2e485]
+            - img "drop-icon" [ref=f2e486]
+        - button [ref=f2e489] [cursor=pointer]:
+          - generic [ref=f2e490]:
+            - heading "Company" [level=2] [ref=f2e491]
+            - img "drop-icon" [ref=f2e492]
+      - generic [ref=f2e494]:
+        - generic [ref=f2e495]:
+          - generic [ref=f2e496]:
+            - link "Visit Brothers on linkedin" [ref=f2e497] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/brother-usa
+              - img "Visit Brother on Linkedin" [ref=f2e498]
+            - link "Visit Brothers on Social_Icon_X" [ref=f2e499] [cursor=pointer]:
+              - /url: https://x.com/Brother_Intl
+              - img "Visit Brother on Twitter" [ref=f2e500]
+            - link "Visit Brothers on Social_Icon_YT" [ref=f2e501] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCp8NKPSJxErwhzCtAp8ap-Q
+              - img "Visit Brother on Youtube" [ref=f2e502]
+            - link "Visit Brothers on Social_Icon_TT" [ref=f2e503] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@brother_usa
+              - img "Visit Brother on TikTok" [ref=f2e504]
+          - generic [ref=f2e505]:
+            - generic [ref=f2e507]:
+              - button "Subscribe" [ref=f2e509] [cursor=pointer]
+              - textbox "Email address for newsletter" [ref=f2e512]:
+                - /placeholder: Enter Email Address
+            - paragraph [ref=f2e513]: Join our newsletter to stay up to date.
+          - paragraph [ref=f2e514]: © 2026 Brother International Corporation.
+        - generic [ref=f2e515]:
+          - link "Privacy Policy" [ref=f2e516] [cursor=pointer]:
+            - /url: /privacy-policy
+            - paragraph [ref=f2e517]: Privacy Policy
+          - link "Terms of Service" [ref=f2e518] [cursor=pointer]:
+            - /url: /terms-of-use
+            - paragraph [ref=f2e519]: Terms of Service
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"
